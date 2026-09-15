@@ -1,0 +1,9 @@
+{
+  "name": "益生菌方案看板",
+  "short_name": "方案看板",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f3",
+  "theme_color": "#123a35",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
